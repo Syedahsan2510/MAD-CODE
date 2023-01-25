@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PHASE 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">ADD RECORD</string>
+    <string name="add_the_user_information">Add DATA</string>
+    <string name="name">Username</string>
+    <string name="mobile_no">Phone no</string>
+    <string name="birthdata">DOB</string>
+    <string name="more_information">Details</string>
+    <string name="submit">Enter</string>
+    <string name="cancel">Cancel</string>
+</resources>
